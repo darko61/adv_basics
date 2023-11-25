@@ -1,6 +1,6 @@
 # adv_basics
 
-A new Flutter project.
+FlutterQuizApp is a user-friendly quiz application developed using the Flutter framework. This engaging app is designed to test your knowledge on various topics, making learning fun and interactive. Whether you're a student looking to reinforce your studies or just someone who enjoys challenging quizzes, FlutterQuizApp has something for everyone.
 
 ## Getting Started
 
